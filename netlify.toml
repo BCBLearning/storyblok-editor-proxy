@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/editor.html*"
+  to = "/editor.html"
+  status = 200
+  force = true
